@@ -5,5 +5,5 @@ Scratch DSi is inspired by Scratch Everywhere, accept instead of focusing on mul
 This means better optimisation (hopefully...) for running your SB3s.
 
 (Disclamer: This port is actually built on Turbowarp, a clone of Scratch both are open source and are avalible on GitHub.)
-# This port is not our yet!
+# This port is not out yet!
 It is still in development im hoping for about a week before I can launch but it might be a little longer
